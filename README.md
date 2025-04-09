@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **cswylie/cswylie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Preferred contact: `christianswylie@gmail.com`
+
+[LinkedIn](https://www.linkedin.com/in/christian-wylie-593249265/): `https://www.linkedin.com/in/christian-wylie`
+
+[Personal Portfolio](https://github.com/cswylie/personal_portfolio): `https://github.com/cswylie/personal_portfolio`
+
+## Projects:
+
+### SkillSwapper
