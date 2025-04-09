@@ -22,8 +22,8 @@ Preferred contact: `christianswylie@gmail.com`
 [Personal Portfolio](https://github.com/cswylie/personal_portfolio): `https://github.com/cswylie/personal_portfolio`
 
 ## About Me:
-* Computer Science B.S., University of California, Santa Cruz (September 2021 – March 2025)
-* ResNet (Residential Networking) Technician (September 2024 - March 2025): Provided technical and networking support for on campus residential students, resolving network or OS issues, and configured student-owned devices.
+* **Computer Science B.S., University of California, Santa Cruz (September 2021 – March 2025)**
+* **ResNet (Residential Networking) Technician (September 2024 - March 2025)**: Provided technical and networking support for on campus residential students, resolving network or OS issues, and configured student-owned devices.
 
 ## Featured Projects:
 
