@@ -24,6 +24,8 @@ Preferred contact: `christianswylie@gmail.com`
 ## About Me:
 * **Computer Science B.S., University of California, Santa Cruz (September 2021 – March 2025)**
 * **ResNet (Residential Networking) Technician (September 2024 - March 2025)**: Provided technical and networking support for on campus residential students, resolving network or OS issues, and configured student-owned devices.
+* I've been played trumpet for about 11 years, and I've been playing guitar for about 2 years.
+ * I spend a lot of my free time practicing writing music. 
 
 ## Featured Projects:
 
