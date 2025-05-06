@@ -26,7 +26,7 @@ Preferred contact: `christianswylie@gmail.com`
 * **ResNet (Residential Networking) Technician (September 2024 - March 2025)**: Provided technical and networking support for on campus residential students, resolving network or OS issues, and configured student-owned devices.
 * I've been played trumpet for about 11 years, and I've been playing guitar for about 2 years.
     * I spend a lot of my free time practicing and writing music.
-* Certified **AWS Certified Cloud Practitioner** (Until 2028).
+* **AWS Certified Cloud Practitioner** (Until 2028).
 
 ## Featured Projects:
 
