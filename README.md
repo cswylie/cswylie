@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Preferred contact: `christianswylie@gmail.com`
 
+[Website](https://christianswylie.com/): `https://christianswylie.com/`
+
 [LinkedIn](https://www.linkedin.com/in/christian-wylie-593249265/): `https://www.linkedin.com/in/christian-wylie`
 
 [Personal Portfolio](https://github.com/cswylie/personal_portfolio): `https://github.com/cswylie/personal_portfolio`
