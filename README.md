@@ -41,3 +41,9 @@ This is a full stack web application developed by myself and 5 other UCSC underg
 * Creating and maintaining cookies for users.
 #### Technologies Used:
 ReactJS | JavaScript | TypeScript | HTML/CSS | NodeJS | ExpressJS | Firebase
+
+### [Portfolio Website](https://github.com/cswylie/website)
+This is my portfolio website that has my Resume and a little bit of my photography and artwork. It was made using React and Vite, and was hosted using Netlify. The UI of the website was made using Tailwind CSS and TypeScript.
+#### Technologies Used:
+ReactJS | JavaScript | TypeScript | HTML | Tailwind CSS | Vite
+
