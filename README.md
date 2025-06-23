@@ -49,3 +49,8 @@ This is my portfolio website that has my Resume and a little bit of my photograp
 #### Technologies Used:
 ReactJS | JavaScript | TypeScript | HTML | Tailwind CSS | Vite
 
+### [ChordIdentifier](https://github.com/cswylie/ChordIdentifier) 
+This is a small full stack web application designed to give the user a breakdown of what chords a list of notes are in. It makes use of the tonaljs library to return the list of chords that the notes are in.
+#### Technologies Used:
+ReactJS | JavaScript | TypeScript | HTML | NodeJS | ExpressJS | Vite
+
