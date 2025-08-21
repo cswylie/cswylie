@@ -60,5 +60,5 @@ This is an ongoing project designed to develop a small specialized AI chatbot to
 #### How does it work?:
 It's run through a Docker container and hosts the pipeline locally. The chatbot makes use of Retrieval-Augmented Generation, or RAG, to search a predefined database of knowledge, mostly on music production, generating a response derived specifically from that data rather than a very well educated guess, like a normal pretrained LLM model. Queries are embedded into a vector, which is then compared against the data set (also turned into vectors), which then will find the highest matching documents relevent to the query. The program will then pass along that context (data) to the Open AI GPT OSS 20b LLM model along with the query, ensuring that the model can answer appropriately. All data is then appropriately displayed to the user using Gradio as an interface.  
 #### Technologies Used:
-Python | Retrieval-Augmented Generation (RAG) | Gradio | Docker
+Python | Retrieval-Augmented Generation (RAG) | FastAPI | Docker
 
